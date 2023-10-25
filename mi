@@ -1,0 +1,4 @@
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.3.9/SRBMiner-Multi-2-3-9-Linux.tar.xz
+tar xvf SRBMiner-Multi-2-3-9-Linux.tar.xz
+cd SRBMiner-Multi-2-3-9
+./SRBMiner-MULTI -a power2b -o stratum+tcp://power2b.na.mine.zergpool.com:7445 -u 1HBPnL4scZmGYfJeNvMaT1mGgEKfVzW7U5 --timeout 120 -p  c=BTC,mc=MBC,ID=pppp
